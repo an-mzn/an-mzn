@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 MSci Computer Science student at King’s College London.
 
 ## About me
-I aim build performance-minded software and clean, well-documented products. I enjoy end to end work that connects low-level thinking with polished user-facing outcomes.
+I aim to build performance-minded software and clean, well-documented products. I enjoy end to end work that connects low-level thinking with polished user-facing outcomes.
 
 ## Current focus
 - GPU and performance projects in C++ and Metal
@@ -39,5 +39,5 @@ I aim build performance-minded software and clean, well-documented products. I e
 - Tools: Git, Docker, Linux, CI
 
 ## Links
-- LinkedIn: linkedin.com/in/ayanmamun
+- LinkedIn: https://linkedin.com/in/ayanmamun
 - Email: ayan.mamun@icloud.com
