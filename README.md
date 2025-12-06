@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 
 MSci Computer Science student at King’s College London.
 
-Name in Arabic: ايّان (Ayyān)
-
 ## About me
-I build performance-minded software and clean, well-documented products. I enjoy end to end work that connects low-level thinking with polished user-facing outcomes.
+I aim build performance-minded software and clean, well-documented products. I enjoy end to end work that connects low-level thinking with polished user-facing outcomes.
 
 ## Current focus
 - GPU and performance projects in C++ and Metal
